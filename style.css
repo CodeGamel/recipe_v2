@@ -1,0 +1,39 @@
+.section{
+    border-style: solid;
+    border-color: rgba(255, rgb(90, 180, 90), rgb(47, 47, 85), 0.2);
+
+}
+#intro{
+    text-indent: 25px;
+    border-style: dotted;
+    border-color: rgba(255, rgb(90, 180, 90), rgb(47, 47, 85), 0.2);
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px; 
+}
+
+.ul li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+#underline{
+    text-decoration: underline solid red;
+}
+
+body{
+    background-color: skyblue;
+    opacity: 0.9;
+}
+
+#imgs{
+    padding: 25px 50px 75px 100px
+}
+
+div h1{
+    text-align: center;
+}
+
+
+div h2{
+    text-align: center;
+}
