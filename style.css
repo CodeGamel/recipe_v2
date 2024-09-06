@@ -26,7 +26,8 @@ body{
 }
 
 #imgs{
-    padding: 25px 50px 75px 100px
+    border: 20px groove rgb(0, 0, 0);
+    
 }
 
 div h1{
